@@ -1,0 +1,46 @@
+<html>
+
+
+
+
+
+	<head>
+	<title>home page</title>
+
+	</head>
+	
+
+
+	<body>
+		<h1 style="color:red;"> blah </h1>
+		<h1 style="color:green;"> grr </h1>
+		<p> blah </p>
+
+		<p> blah </p>
+		<img src= "https://pbs.twimg.com/profile_images/616542814319415296/McCTpH_E.jpg" />
+		<a href= "https://www.google.co.il/" >google</a>
+		<ol>
+		<li>apple</li>
+		<li>apple</li>
+		<li>apple</li>
+		</ol>
+
+		<ul>
+		<li>apple</li>
+		<li>apple</li>
+		<li>apple</li>
+		</ul>
+		<form>
+		<input type="text" >
+		<input type="submit" value="submit">
+		
+		</form>
+	</body>
+
+
+
+
+
+
+
+</html>
