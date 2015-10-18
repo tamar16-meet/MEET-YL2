@@ -1,0 +1,34 @@
+<html>
+
+
+
+
+
+	<head>
+	<title>ugly photoes of me</title>
+
+	</head>
+	<link>
+	
+
+
+	<body bgcolor="CC9966" >
+		<h1 style="color:blue;"> The Amazing Website Of Tamar Bitton </h1>
+		<h1 style="color:green;">hey there, I'm Tamar  </h1>
+		<p> In order to learn more about me, click on -learn more- </p>
+		<p align="center" style="margin-top: 1em">
+
+		<p>  </p>
+		<img src= "https://pbs.twimg.com/profile_images/616542814319415296/McCTpH_E.jpg" />
+		<a href= "aboutme.html" >Learn More</a>
+		<a href= "contactme.html" >About me</a>
+		
+	</body>
+
+
+
+
+
+
+
+</html>
