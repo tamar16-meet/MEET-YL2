@@ -1,6 +1,6 @@
 body {
 	font-family: Helvetica, sans-serif;
- 	background-image: url("http://static1.squarespace.com/static/557768e8e4b062d1db02e5f4/t/55776f74e4b002f460d29b86/1433890677723/Background+1.jpg?format=2500w");
+ 	background-image: url("backgroung.jpg");
 }
 
 .header{
@@ -49,11 +49,11 @@ background-color: orange;
 ;height:307px;width:1000px;margin: 0 auto;
 	}
 
-#p1{
-	font-size: 1.6em;
-	text-align: center;
+.p{
+	height:440px;
+	width:340px;
 }
 
-    Status API Training Shop Blog About Pricing 
+
 
 
