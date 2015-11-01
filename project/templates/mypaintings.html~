@@ -1,0 +1,44 @@
+<html>
+
+
+
+
+
+	<head>
+	<title>my paintings</title>
+	<link rel="stylesheet" type="text/css" href="{{url_for('static',filename='style.css')}}">
+	</head>
+	
+
+
+	<body>
+		<h1 style="color:white;"> The Amazing Website Of Tamar Bitton </h1>
+		<h1 style="color:white;">here are my paintings!  </h1>
+		<p> In order to learn more about me, click on -learn more- </p>
+		<p align="center" style="margin-top: 1em"></p>
+
+		<p>  </p>
+		<img class=p id = "p1" src="{{url_for('static',filename='painting1.jpg')}}">
+		<img class=p id = "p2" src="{{url_for('static',filename='painting2.jpg')}}">
+		<img class=p id = "p3" src="{{url_for('static',filename='painting3.jpg')}}">
+		<img class=p id = "p4" src="{{url_for('static',filename='painting4.jpg')}}">
+		<img class=p id = "p5" src="{{url_for('static',filename='painting5.jpg')}}">
+		<img class=p id = "p6" src="{{url_for('static',filename='painting6.jpg')}}">
+		<img class=p id = "p7" src="{{url_for('static',filename='painting7.jpg')}}">
+		<img class=p id = "p8" src="{{url_for('static',filename='painting8.jpg')}}">
+		<img class=p id = "p9" src="{{url_for('static',filename='painting9.jpg')}}">
+		<img class=p id = "p10" src="{{url_for('static',filename='painting10.jpg')}}">
+
+		<a href= "aboutme.html" >Learn More</a>
+		<a href= "contactme.html" >Contact me</a>
+		<a href= "home.html" >Back to the home page </a>
+		
+	</body>
+
+
+
+
+
+
+
+</html>

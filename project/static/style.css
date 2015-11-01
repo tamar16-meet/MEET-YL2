@@ -3,6 +3,35 @@ body {
  	background-image: url('backgroung.jpg');
 }
 
+
+a:link,a:visited{
+	display: block;
+	width: 220px;
+	font-weight:bold;
+	color: #99004C;
+	text-elign:center;
+	text-decoration: none;
+	text-transform: Uppercase;
+	font-size: 20px;
+}
+
+a:hover, a:active{
+	color: #404040;
+	text-decoration: none;
+	font-size: 24px;
+}
+
+.a1{
+	float:left;
+}
+
+h1{
+	text-align: center;
+}
+
+
+
+
 .p{
 	font-size: 2.5em;
 	text-align: center;
@@ -28,9 +57,7 @@ body {
 
 
 
-h1{
-	text-align: center;
-}
+
 
 #description{
 	height:200px;
